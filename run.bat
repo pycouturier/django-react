@@ -1,0 +1,1 @@
+npx webpack && cd react_django_scaffold && python manage.py runserver
