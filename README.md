@@ -4,10 +4,10 @@
 
 
 ### Back end
-- [ ] On met en place un modèle simple
-- [ ] On créé le serialiser qui correspond
-- [ ] On install djangorestframework
-- [ ] On met en place un endpoints pour lister tous les objects
+- [x] On met en place un modèle simple
+- [x] On créé le serialiser qui correspond
+- [x] On install djangorestframework
+- [x] On met en place un endpoints pour lister tous les objects
 - [ ] on test https://www.django-rest-framework.org/topics/browsable-api/ ?
 
 ### Front end
@@ -16,8 +16,9 @@
 - [x] Une app django nommmé front end n'expose qu'une seule view, celle-ci "render" le templace "index.html" qui est statique et fait appel au "bundle.js" créé par 
 
 ### Relation Front End // Back End
-- [ ] création d'un composant sous forme de fonction
-- [ ] Ajout d'un useEffet sans dépendance (?) fetchant les données (définition d'une async function interne appellée en synchrone dans useEffect)
+- [x] création d'un composant sous forme de fonction
+- [x] Ajout d'un useEffet sans dépendance (?) fetchant les données (définition d'une async function interne appellée en synchrone dans useEffect)
+- [ ] Faire au moins semblant de faire un truc joli
 
 ## Présentation des fichiers
 | Fichier | Mode de Génération | Utilité |
